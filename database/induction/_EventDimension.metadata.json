@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"induction._EventDimension"},{"v":1,"key":{"event":1},"name":"event_1","ns":"induction._EventDimension","background":true}]}

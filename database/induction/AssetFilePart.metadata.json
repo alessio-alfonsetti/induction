@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"induction.AssetFilePart"},{"v":1,"key":{"UploadId":1,"_created_at":1},"name":"UploadId_1__created_at_1","ns":"induction.AssetFilePart","background":true}]}

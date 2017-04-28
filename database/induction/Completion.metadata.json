@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"induction.Completion"},{"v":1,"key":{"CompletionPercentage":-1},"name":"CompletionPercentage_-1","ns":"induction.Completion","background":true},{"v":1,"key":{"_created_at":1},"name":"_created_at_1","ns":"induction.Completion","background":true}]}
